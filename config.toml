@@ -1,0 +1,110 @@
+baseURL = "http://example.org/"
+languageCode = "ja"
+title = "関西春ロボコン"
+theme = "travelify"
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "ja"
+SectionPagesMenu = "main"
+Paginate = 10 # this is set low for demonstrating with dummy content. Set to a higher number
+#googleAnalytics = ""
+#enableRobotsTXT = true
+
+subtitle = "関西春ロボコン"
+canonifyURLs = true
+
+publishDir = "docs"
+
+[params]
+author = "春ロボ運営"
+site_description = "関西春ロボコンのホームページです"
+title_in_logo = true
+date_format = "2006-01-02"
+
+[[menu.main]]
+    name  = "TOP"
+    url   = "/top/"
+    weight = 10
+
+[[menu.main]]
+    name    = "RULE"
+    url     = "/rule"
+    weight = 20
+
+[[menu.main]]
+    name  = "CONTACT"
+    url   = "/contact/"
+    weight = 30
+
+#[[menu.main]]
+#    name  = "Contact2"
+#    url   = "/contact/"
+#    parent = "contact"
+#
+#[[menu.main]]
+#    name  = "Contact21"
+#    url   = "/contact/"
+#    parent = "Contact2"
+#    weight = 20
+#
+#[[menu.main]]
+#    name  = "cOntact22"
+#    url   = "/contact/"
+#    parent = "Contact2"
+#    weight = 10
+#
+#[[menu.main]]
+#    name  = "cOntact3"
+#    url   = "/contact/"
+#    parent = "contact"
+		
+[params.share]
+    enable = false
+    #facebook = true
+    #twitter = true
+    #googleplus = true
+    #linkedin = true
+    #email = true
+
+[params.privacy]
+enable = true # false implies switching on tracking application, you can individually turn off applications that you don't want. If enable = true, then all tracking apps are switched off
+facebook_like = false
+DisqusShortname = ""
+
+[social]
+# Add your social network accounts to the profile section on the left
+# by entering your username. The links to your account will be
+# created automatically.
+    # rss             = "Needed" # leave this to blank if you do not want RSS feed icon to appear on top
+    # github          = "nikimonikado"
+    # flickr          = "nikimonikado"
+    # instagram       = "nikimonikado"
+    # youtube         = "nikimonikado"
+    # vimeo           = "nikimonikado"
+    # tumblr          = "nikimonikado"
+    # linkedin        = "nikimonikado"
+    # pinterest       = "nikimonikado"
+    # googleplus      = "nikimonikado"
+    # facebook        = "nikimonikado"
+    # twitter         = "nikimonikado"
+    # email           = "joe@example.com"	
+
+# Enable and disable widgets for the right sidebar
+[params.widgets]
+    recent_articles = true
+    categories = true
+    tags = false
+    tag_cloud = false
+    archives = false # This feature is yet to be implemented because of limitations in Hugo's way of working.
+    search = false
+    mailchimp = false
+
+[params.slider]
+    enable = false
+    manual = false # Setting manual to true renders the slide selection to only those where the post has a slider=true option enabled
+    num_features = 6 # The slider picks up the banner images from the N most recent posts, where num_features is N.
+
+[Taxonomies]
+    tags = "tags"
+    categories = "categories"
+    #author = "author"
