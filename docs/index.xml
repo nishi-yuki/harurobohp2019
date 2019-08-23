@@ -1,28 +1,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>関西春ロボコン</title>
-    <link>http://example.org/</link>
+    <link>https://nishi-yuki.github.io/harurobohp2019/</link>
     <description>Recent content on 関西春ロボコン</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Wed, 07 Jun 2017 15:36:00 +0530</lastBuildDate>
-    <atom:link href="http://example.org/" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nishi-yuki.github.io/harurobohp2019/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>TOP</title>
-      <link>http://example.org/rule/</link>
+      <link>https://nishi-yuki.github.io/harurobohp2019/rule/</link>
       <pubDate>Wed, 07 Jun 2017 15:36:00 +0530</pubDate>
       
-      <guid>http://example.org/rule/</guid>
+      <guid>https://nishi-yuki.github.io/harurobohp2019/rule/</guid>
       <description>Rule 工事中</description>
     </item>
     
     <item>
       <title>TOP</title>
-      <link>http://example.org/top/</link>
+      <link>https://nishi-yuki.github.io/harurobohp2019/top/</link>
       <pubDate>Wed, 07 Jun 2017 15:36:00 +0530</pubDate>
       
-      <guid>http://example.org/top/</guid>
+      <guid>https://nishi-yuki.github.io/harurobohp2019/top/</guid>
       <description>関西春ロボコンとは 「関西春ロボコン」は、関西圏を中心としたロボコンチームの技術向上、特に新入生の養成を目的に開催される大会です。
 大会は「NHK学生ロボコン」を参考にしたものであり、より本番に近いルール、フィールド、ロボットを用います。本番さながらの環境から、技術、マネジメント、戦略を学んでいくことが目標です。
 この大会を開催、運営していくことで、関西圏からロボコンの活性化に貢献していきます。

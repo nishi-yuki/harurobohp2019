@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/rule/</loc>
+    <loc>https://nishi-yuki.github.io/harurobohp2019/rule/</loc>
     <lastmod>2017-06-07T15:36:00+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/top/</loc>
+    <loc>https://nishi-yuki.github.io/harurobohp2019/top/</loc>
     <lastmod>2017-06-07T15:36:00+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://nishi-yuki.github.io/harurobohp2019/</loc>
     <lastmod>2017-06-07T15:36:00+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://nishi-yuki.github.io/harurobohp2019/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://nishi-yuki.github.io/harurobohp2019/tags/</loc>
   </url>
   
 </urlset>
